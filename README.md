@@ -1,5 +1,4 @@
-### 
-Hey👋 Preethi here!!
+###  Hey👋 Preethi here!!
 <p>Passionately seeking to learn, write, and thrive in the world of tech - One project at a time.</p>
 
 <br>
