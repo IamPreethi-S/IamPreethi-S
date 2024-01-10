@@ -29,7 +29,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=IamPreethi-S&label=Profile%20views&color=orange&style=flat" alt="Preethi_S" />
+    <img src="https://komarev.com/ghpvc/?username=IamPreethi-S&label=Profile%20views&color=blue&style=flat" alt="Preethi_S" />
 </p>
 
 <!--
