@@ -1,4 +1,4 @@
-###  Hey👋 Preethi here!!
+###  Hey👋 Preethi here!! 
 <p>Passionately seeking to learn, write, and thrive in the world of tech - One project at a time.</p>
 
 <br>
@@ -12,6 +12,8 @@
 - Tools Familiar: Git, Jira, Jenkins, Bitbucket IntelliJ Idea, Eclipse, NetBeans, Jupyter Notebook.
 - Frameworks/Libraries: Node, React, Flask, TensorFlow, NumPy, Pandas, Sci-Py, Sci-kit Learn 
 
+
+
 <br>
 🙋‍♂️ Reach out:
 <br>
@@ -23,8 +25,12 @@
 - 💬 Ask me about anything, I am happy to help and will try my best :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/preethi-subramanian-uta/)
 - 📊 Data Science Portfolio - https://www.datascienceportfol.io/preethi_s
+<br>
 
-
+<!-- Profile Views -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=IamPreethi-S&label=Profile%20views&color=orange&style=flat" alt="Preethi_S" />
+</p>
 
 <!--
 **IamPreethi-S/IamPreethi-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
