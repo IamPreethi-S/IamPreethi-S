@@ -1,11 +1,6 @@
 ###  Hey👋 Preethi here!! 
 <p>Passionately seeking to learn, write, and thrive in the world of tech - One project at a time.</p>
-<br>
 
-<!-- Profile Views -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=IamPreethi-S&label=Profile%20views&color=blue&style=flat" alt="Preethi_S" />
-</p>
 
 <br>
 ✨I am a graduate student at the University of Texas at Arlington pursuing Master's in Computer Science. <br>
@@ -33,7 +28,10 @@
 - 📊 Data Science Portfolio - https://www.datascienceportfol.io/preethi_s
 <br>
 
-
+<!-- Profile Views -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=IamPreethi-S&label=Profile%20views&color=blue&style=flat" alt="Preethi_S" />
+</p>
 <!--
 **IamPreethi-S/IamPreethi-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
