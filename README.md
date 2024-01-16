@@ -25,7 +25,7 @@
 - 🎯 Portfolio website: [Portfolio](https://iampreethi-s.github.io/webportfolio/)
 - 💬 Ask me about anything, I am happy to help and will try my best :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/preethi-subramanian-uta/)
-- 📊 Data Science Portfolio - https://www.datascienceportfol.io/preethi_s
+<!--- 📊 Data Science Portfolio - https://www.datascienceportfol.io/preethi_s -->
 <br>
 
 <!-- Profile Views -->
