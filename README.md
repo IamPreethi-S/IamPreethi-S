@@ -7,7 +7,7 @@
 ✨Prior to that, I worked as a Software Engineer and have 3 yrs of experience with a demonstrated history of working in the Investment banking technology domain. A technology enthusiast and a curious learner with a strong technical foundation.</p>
 
 <br>
-✨Skills include :
+✨Skills include :<br>
 - Programming Languages: C, C++, Java, Scala, HTML, CSS<br>
 - Database Systems: Oracle, SQL Server, MYSQL<br>
 - Visualization: Tableau BI Tool, Power BI.<br>
