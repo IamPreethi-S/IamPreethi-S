@@ -16,7 +16,7 @@
 
 <br>
 ✨Currently Learning:
-- React and AWS Cloud services
+- React, Tailwind and AWS Cloud services
 
 
 <br>
