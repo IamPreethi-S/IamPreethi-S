@@ -6,10 +6,12 @@
 ✨I am a graduate student at the University of Texas at Arlington pursuing Master's in Computer Science. <br>
 ✨Prior to that, I worked as a Software Engineer and have 3 yrs of experience with a demonstrated history of working in the Investment banking technology domain. A technology enthusiast and a curious learner with a strong technical foundation.</p>
 
+<br>
 ✨Currently Learning:
 - React:
 - AWS Cloud services
 
+<br>
 ✨Skills include :
 - Programming Languages: C, C++, Java, Scala, HTML, CSS
 - Database Systems: Oracle, SQL Server, MYSQL
