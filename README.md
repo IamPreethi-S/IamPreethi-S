@@ -16,7 +16,7 @@
 
 <br><br>
 💻 Currently Learning:
-- React, Tailwind and AWS Cloud services
+- React & Tailwind
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
