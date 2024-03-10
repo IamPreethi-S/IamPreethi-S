@@ -8,14 +8,14 @@
 
 <br>
 ✨Skills include :
-- Programming Languages: C, C++, Java, Scala, HTML, CSS
-- Database Systems: Oracle, SQL Server, MYSQL
-- Visualization: Tableau BI Tool, Power BI.
-- Tools Familiar: Git, Jira, Jenkins, Bitbucket IntelliJ Idea, Eclipse, NetBeans, Jupyter Notebook.
-- Frameworks/Libraries: Node, React, Flask, TensorFlow, NumPy, Pandas, Sci-Py, Sci-kit Learn 
+- Programming Languages: C, C++, Java, Scala, HTML, CSS<br>
+- Database Systems: Oracle, SQL Server, MYSQL<br>
+- Visualization: Tableau BI Tool, Power BI.<br>
+- Tools Familiar: Git, Jira, Jenkins, Bitbucket IntelliJ Idea, Eclipse, NetBeans, Jupyter Notebook.<br>
+- Frameworks/Libraries: Node, React, Flask, TensorFlow, NumPy, Pandas, Sci-Py, Sci-kit Learn <br>
 
-<br>
-✨Currently Learning:
+<br><br>
+💻 Currently Learning:
 - React, Tailwind and AWS Cloud services
 
 <!-- code gif-->
