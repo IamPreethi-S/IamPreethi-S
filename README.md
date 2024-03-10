@@ -18,6 +18,8 @@
 ✨Currently Learning:
 - React, Tailwind and AWS Cloud services
 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 <br>
 🙋‍♂️ Reach out:
