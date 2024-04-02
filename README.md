@@ -16,16 +16,22 @@
 
 <br><br>
 💻 Currently Learning:
-- React & Tailwind
+- React & Tailwind           
+
+<!--- Adding language github stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamPreethi-S&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 
 <br>
 🙋‍♂️ Reach out:
 <br>
 
 </p>
+
+
 
 
 - 🎯 Portfolio website: [Portfolio](https://iampreethi-s.github.io/webportfolio/)
