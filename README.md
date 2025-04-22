@@ -14,8 +14,7 @@
 - Tools Familiar: Git, Jira, Jenkins, Bitbucket IntelliJ Idea, Eclipse, NetBeans, Jupyter Notebook.<br>
 - Competencies: Python, SQL, Exploratory Data Analysis, ETL/ELT, Data Warehousing, Google Big Query, Apache
 Spark, Data Analytics, Advanced Analytics, Linear Regression, Logistic Regression, Decision Trees, Random Forests,
-Support Vector Machines, ARIMA, Prophet, Text Processing, Predictive Modeling, Optimization, Recommendation
-Systems, Natural Language Processing, Statistics, Generative AI, LLM, Hypothesis testing, A/B testing, Business
+Support Vector Machines, ARIMA, Prophet, Text Processing, Predictive Modeling, Natural Language Processing, Statistics, Generative AI, LLM, Hypothesis testing, A/B testing, Business
 Intelligence, Data Visualization.<br>
 
 <br><br>
