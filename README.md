@@ -20,7 +20,7 @@ Intelligence, Data Visualization.<br>
 
 <br><br>
 💻 Currently Learning:
-- Deep Learning and Gen AI         
+- LLM and Gen AI         
 
 <!--- Adding language github stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamPreethi-S&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
