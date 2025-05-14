@@ -1,13 +1,18 @@
 ###  Hey👋 Preethi here!! 
 <p>Passionately seeking to learn, write, and thrive in the world of tech - One project at a time.</p>
 
+## Quick Intro:
 
 <br>
-✨I am a graduate student at the University of Texas at Arlington pursuing Master's in Computer Science. <br>
-✨Prior to that, I worked as a Senior Software Engineer and have 3 yrs of experience with a demonstrated history of working in the Investment banking technology domain. A technology enthusiast and a curious learner with a strong technical foundation.</p>
+✨I'm a Data Scientist with a background in Software Engineering and Data Analytics who is passionate about transforming raw data into actionable insights that drive innovation and decision-making. <br><br>
+✨Recently graduated from UTA with a Master's in Computer Science. Prior to that, I worked as a Senior Software Engineer for a period of 3yrs in the fintech domain and as a Data Science Intern in Retail and advanced analytics domain.<br><br>
+✨I believe that machine learning is just one piece of the puzzle. The real magic happens when tech, business, and people come together. With 4+ years of overall experience across Retail, FinTech, and Energy Industry, I bring a blend of technical expertise, business context, and stakeholder communication to every project I take on. <br><br>
+✨A technology enthusiast and a curious learner with a strong technical foundation.<br>
+</p>
 
-<br>
-✨Skills include :<br>
+
+
+## Skills:
 - Programming Languages: Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow), Java, Scala.<br>
 - Database Systems: SQL Server, MYSQL, Oracle, Snowflake<br>
 - Visualization: Tableau BI Tool, Power BI.<br>
